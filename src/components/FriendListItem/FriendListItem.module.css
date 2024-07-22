@@ -1,0 +1,22 @@
+.item {
+  min-width: 70px;
+  padding: 10px;
+
+  text-align: center;
+
+  border: 2px solid #000000;
+  border-radius: 5px;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.status {
+  font-size: 10px;
+  color: #ea3323;
+}
+
+.online {
+  color: #377e22;
+}
