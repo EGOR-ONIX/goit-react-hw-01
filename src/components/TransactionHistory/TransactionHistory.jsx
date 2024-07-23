@@ -1,6 +1,6 @@
-import css from "./TransactionHistory.module.css"
+import css from './TransactionHistory.module.css';
 
-const TransactionHistory = ({items}) => {
+const TransactionHistory = ({ items }) => {
   return (
     <table className={css.table}>
       <thead className={css.head}>
